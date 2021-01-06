@@ -1,2 +1,5 @@
 # ytpx.pw
-youtopox 1st website
+Hi!
+
+My name is Konstantin,
+and i`m creating my news website;
